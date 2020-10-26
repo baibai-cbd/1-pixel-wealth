@@ -281,23 +281,31 @@ h1 {
   height: 1px;
   margin-top: 5px;
 }
-.median {
+.mean {
   width: 480px;
 }
-.median .wealth{
-  width: 7.94px;
-  height: 7.94px;
+.mean .wealth{
+  width: 5px;
+  height: 5px;
 }
 .million {
   width: 200px;
 }
 .million .wealth {
-  width: 31.62px;
-  height: 31.62px;
+  width: 22.4px;
+  height: 22.4px;
   background-color: #4CAF50;
 }
+.ten-million {
+  width: 200px;
+}
+.ten-million .wealth {
+  width: 70.7px;
+  height: 70.7px;
+  background-color: #2bb3b3;
+}
 .billion .wealth {
-  width: 2000px;
+  width: 1000px;
   height: 500px;
   background-color: #03A9F4;
 }
